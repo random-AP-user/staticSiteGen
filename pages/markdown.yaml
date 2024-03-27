@@ -1,0 +1,10 @@
+blog:
+  title: "Blog "
+  para:
+    Lorem ipsum dolor sit amet. Qui doloribus natus et quos similique et numquam sunt ad voluptatem odit. At repellat laborum 33 praesentium delectus et enim tempore. At eveniet consequatur ut quasi nobis cum sapiente sint. In internos nulla in reprehenderit quae non dolorem placeat ut provident quas.
+    Ut quis quasi ut impedit perferendis non enim voluptates qui aliquid fugiat. Qui iste quod sed minima facilis ex iure nesciunt. Ut magnam commodi rem repellat dolore qui nesciunt repellendus aut enim natus ea quod dolor sed officia dolor eos natus optio. Qui cupiditate quasi nam fuga beatae aut suscipit dicta.
+    Qui molestias ratione et ipsa galisum non enim consequatur aut modi nulla et ducimus animi. Ex nesciunt facere a possimus consequatur aut atque voluptas vel illo soluta.
+  img:
+    path: img/one.jpg
+    name: image 1
+    source: https://picsum.photos/
